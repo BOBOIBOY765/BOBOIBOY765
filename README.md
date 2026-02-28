@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nabil👋
 
-<!--
-**BOBOIBOY765/BOBOIBOY765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year Computer Science student based in Dublin, Ireland.
 
-Here are some ideas to get you started:
+## 🔧 Technologies
+- JavaScript, Python, Java, C
+- HTML, CSS, Bootstrap
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🌦 Weather App Widget – Real-time API weather application
+- 💻 Student Management System (C) – Console-based record system
+
+## 📚 Currently Learning
+- JavaScript development
+- Data structures & algorithms
+
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/nabil-hamdan-b9275b3aa/
