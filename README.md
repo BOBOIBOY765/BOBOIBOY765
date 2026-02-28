@@ -5,15 +5,15 @@
 </h2>
 
 
-## 🔧 Skills
+### 🔧 Skills
 - Programming Languages: Python, C, Java, JavaScript
 - Web Technologies: HTML, CSS, Bootstrap, Django
 - Tools: Git, Github, VS Code, Figma
 
-## 🚀 Projects
+### 🚀 Projects
 - 🌦 Weather App Widget – Real-time API weather application
 - 💻 Student Management System (C) – Console-based record system
 - Many more to come...
 
-## 📫 Contact
+### 📫 Contact
 LinkedIn: https://www.linkedin.com/in/nabil-hamdan-b9275b3aa/
